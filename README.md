@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>名称</h1>
+  <h1>模板库</h1>
 
   <a href="https://github.com/robot12580">
     <img
@@ -9,6 +9,5 @@
     />
   </a>
 
-  <p>描述</p>
+  <p>模板库简介</p>
 </div>
-<hr />
