@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Ruimve/TEMPALTE-LIB-ROLLUP/compare/v1.0.0...v1.1.0) (2023-03-17)
+
+
+### Features
+
+* update template ([9bfa367](https://github.com/Ruimve/TEMPALTE-LIB-ROLLUP/commit/9bfa367a120209746bf49ee458addef845c3c3bb))
+
 ## 1.0.0 (2023-01-23)
 
 
